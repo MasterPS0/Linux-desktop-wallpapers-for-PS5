@@ -18,3 +18,6 @@ unzip Linux.desktop.wallpapers.for.PS5.zip
 sudo cp -r ./* /usr/share/backgrounds/
 
 sudo chmod -R 755 /usr/share/backgrounds/
+
+Verify Wallpapers
+ls /usr/share/backgrounds

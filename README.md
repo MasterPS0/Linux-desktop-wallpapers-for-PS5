@@ -3,6 +3,7 @@
 Custom PS5 wallpapers collection for Linux desktop systems such as Ubuntu 26.04.
 
 ## Installation
+<img width="1720" height="356" alt="image" src="https://github.com/user-attachments/assets/46d2c509-0766-4ab3-9c23-45b188e51345" />
 
 Open Terminal and run:
 
